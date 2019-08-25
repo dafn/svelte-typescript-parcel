@@ -1,6 +1,6 @@
 # svelte-typescript-parcel
 
-Boilerplate example of Svelte with Typescript using Parcel
+Minimal boilerplate example of Svelte with Typescript using Parcel
 
 Start development server
 ```
