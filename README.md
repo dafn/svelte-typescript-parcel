@@ -2,12 +2,17 @@
 
 Minimal boilerplate example of Svelte with Typescript using Parcel
 
-Start development server
+Install packages
+```bash
+$ yarn
 ```
-yarn serve
+
+Start development server
+```bash
+$ yarn serve
 ```
 
 Build for production
-```
-yarn build
+```bash
+$ yarn build
 ```

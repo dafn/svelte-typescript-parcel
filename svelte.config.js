@@ -1,13 +1,5 @@
-const { preprocess, createEnv, readConfigFile } = require("svelte-ts-preprocess")
-
-const env = createEnv()
-
+const sveltePreprocess = require('svelte-preprocess')
+ 
 module.exports = {
-  preprocess: preprocess({
-    env,
-    compilerOptions: {
-      ...readConfigFile(env),
-      allowNonTsExtensions: true
-    }
-  })
+  preprocess: sveltePreprocess(),
 }
