@@ -1,6 +1,6 @@
-# svelte-typescript-parcel
+# Svelte + Typescript + Parcel
 
-Minimal boilerplate example of Svelte with Typescript using Parcel
+Minimal boilerplate example of Svelte with Typescript using Parcel. This also includes SCSS support
 
 Install packages
 ```bash
