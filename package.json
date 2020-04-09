@@ -8,14 +8,14 @@
     "build": "rm -rf dist && parcel build src/index.html"
   },
   "dependencies": {
-    "svelte": "^3.17.2"
+    "svelte": "^3.20.1"
   },
   "devDependencies": {
     "node-sass": "^4.13.1",
     "parcel-bundler": "^1.12.4",
-    "parcel-plugin-svelte": "^4.0.5",
-    "svelte-preprocess": "^3.3.0",
-    "typescript": "^3.7.5"
+    "parcel-plugin-svelte": "^4.0.6",
+    "svelte-preprocess": "^3.7.01",
+    "typescript": "^3.8.3"
   },
   "browserslist": [
     "last 1 chrome versions"
