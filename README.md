@@ -1,3 +1,6 @@
+Svelte now officially suports Typescript: https://svelte.dev/blog/svelte-and-typescript
+This repo is therefore archived
+
 # Svelte + Typescript + Parcel
 
 Minimal boilerplate example of Svelte with Typescript using Parcel. This also includes SCSS support
